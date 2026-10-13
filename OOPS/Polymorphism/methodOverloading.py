@@ -1,4 +1,5 @@
-# Method overloading is not supported in Python
+# Method overloading --- Compiletime polymorphism
+# is not supported in Python
 # But we can achieve this with the help of
 # --->> Default arguments
 # --->> *args variable length argument
