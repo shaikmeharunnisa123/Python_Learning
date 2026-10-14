@@ -1,7 +1,7 @@
 # method overriding -- Runtime polymorphism
 
 # Method overriding is implemented in inheritance only
-# Nethos name and parameters are same but 
+# Method name and parameters are same but 
 # the behaviour of the method is going to change from parent class to child class
 
 class Employee:
