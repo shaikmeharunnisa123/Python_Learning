@@ -1,0 +1,8 @@
+
+
+[2026-10-23 17:12:34.999091] - 4c1fa1bd-057c-462f-a460-e527495381a0 : invalid literal for int() with base 10: '^'
+[2026-10-23 17:12:38.510160] - 229e9820-893c-4852-99ad-e550a596b22c : invalid literal for int() with base 10: 'gh'
+[2026-10-23 17:12:38.510658] - 6a3933f8-b8ec-4145-9d63-19b18865bed3 : [Errno 2] No such file or directory: 'demofil.txt'
+[2026-10-23 17:13:15.927148] - a0f2f523-4dc3-4d51-9943-a6246ba61e78 : invalid literal for int() with base 10: 'gh'
+[2026-10-23 17:13:23.560067] - 8d67e7b1-a254-4e4c-8deb-d7634506dfa9 : invalid literal for int() with base 10: '!'
+[2026-10-23 17:13:23.560668] - 6721c961-2861-438b-aa86-c10b51f429e1 : [Errno 2] No such file or directory: 'demofil.txt'
