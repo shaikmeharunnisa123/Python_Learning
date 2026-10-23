@@ -1,0 +1,4 @@
+Employee name: Mehar
+Technology : Python
+
+Salary: 30000
