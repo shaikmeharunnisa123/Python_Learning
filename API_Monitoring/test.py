@@ -15,9 +15,9 @@ def write_to_log(response):
         method = response.request.method
         status_code = response.status_code
         elapsed_time = response.elapsed
-        headers = response.headers
+        
         reason = response.reason
-        file.write(f"\n[{currentTime}] - {uniqueId} : {method} - {status_code} - {reason} \n- {elapsed_time} -{endpoint} - \n{headers}\n ")
+        file.write(f"\n[{currentTime}] - {uniqueId} : {method} - {status_code} - {reason} \n- {elapsed_time} -{endpoint}")
 
 try:
     response = requests.get(API_URL)
