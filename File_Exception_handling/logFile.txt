@@ -37,3 +37,5 @@
 - 0:00:00.605179 -https://fakestoreapi.com/products/1 - 
 {'Date': 'Mon, 26 Oct 2026 05:18:23 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lGQaIMJ%2FA4j9z1E6Rgt55JomcJwOhDx%2BhqqB7FA5SIlHSX1IUklJzaVAmbCwAlP%2BDW5FnJIz75UrBrrTp1Q56XljhUToZOif919RWm32oesHlZSXmkZJtc%2BwPQejQO3C7KuHm1V8u2QrMTw6isMK"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a50700051a6f5ee7-MRS'}
  
+[2026-10-26 11:43:45.251145] - 754e30fe-e1bb-47ce-9139-8733c03005aa : GET - 200 - OK 
+- 0:00:00.622367 -https://fakestoreapi.com/products/1
