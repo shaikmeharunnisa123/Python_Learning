@@ -4,7 +4,7 @@ import requests
 
 
 
-API_URL = 'https://fakestoreapi.com/products/1'
+API_URL = 'https://fakestoreapi.com/pr'
 log_file = ('C:/Users/MidhTech!/Desktop/Python/File_Exception_handling/logFile.txt')
 
 def write_to_log(response=None, error=None):
