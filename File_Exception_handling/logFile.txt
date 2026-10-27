@@ -1,41 +1,124 @@
 
+Time : 2026-10-27 10:17:17.904200Unique ID : 843df9a9-898f-4711-97aa-39fec22d650fEndpoint : https://fakeoreapi.com/products/1Method : GETError details : HTTPSConnectionPool(host='fakeoreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakeoreapi.com', port=443): Failed to resolve 'fakeoreapi.com' ([Errno 11001] getaddrinfo failed)"))
+Time : 2026-10-27 10:18:58.152832
+Unique ID : a542a85f-0bf6-434d-9d06-45564a53b41c
+Endpoint : https://fakeoreapi.com/products/1
+Method : GET
 
-[2026-10-23 17:12:34.999091] - 4c1fa1bd-057c-462f-a460-e527495381a0 : invalid literal for int() with base 10: '^'
-[2026-10-23 17:12:38.510160] - 229e9820-893c-4852-99ad-e550a596b22c : invalid literal for int() with base 10: 'gh'
-[2026-10-23 17:12:38.510658] - 6a3933f8-b8ec-4145-9d63-19b18865bed3 : [Errno 2] No such file or directory: 'demofil.txt'
-[2026-10-23 17:13:15.927148] - a0f2f523-4dc3-4d51-9943-a6246ba61e78 : invalid literal for int() with base 10: 'gh'
-[2026-10-23 17:13:23.560067] - 8d67e7b1-a254-4e4c-8deb-d7634506dfa9 : invalid literal for int() with base 10: '!'
-[2026-10-23 17:13:23.560668] - 6721c961-2861-438b-aa86-c10b51f429e1 : [Errno 2] No such file or directory: 'demofil.txt'
-[2026-10-26 10:08:53.477375] - 9ca0f203-2e13-45b4-9880-5f1ee10d6fb9 : GET - <module 'requests.status_codes' from 'C:\\Users\\MidhTech!\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\requests\\status_codes.py'>
-[2026-10-26 10:11:58.201467] - 094d3b2a-b1e9-461c-8a03-8da72d5e983d : GET - 200
-[2026-10-26 10:22:21.830673] - 8f255bcc-f671-4159-96da-abcbb49134c9 : GET - 200 - 0:00:01.805460
-[2026-10-26 10:26:05.270499] - afaba936-70e2-40e2-9718-cc0d1b5933a5 : GET - 200 - 0:00:00.663197 - {'Date': 'Mon, 26 Oct 2026 04:56:51 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HUR3ymzY6AdeHHix2sJftvfCOAUyJ81F3fGuM%2B%2FsqnzJs62oQG8mUoNQTEH6MwSMriLpa5SkZ8cX0%2FZAYXv4UP8ak%2B5nAAmS9EH%2BMQeB3t3WUbSSwGcnaeR4FA2JF1ADpgZCvfjCxzLG15GBq6QG"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506e07cae524912-MRS'}
-[2026-10-26 10:26:30.735414] - 2ae14c9d-e4ea-467c-bf9b-f4eda0ba789c : GET - 200 - 0:00:00.642232 - 
-{'Date': 'Mon, 26 Oct 2026 04:57:17 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lkctx7pyoQjRlR%2FNefjQp4tUt6ORuetlxqxnZdq1irK0VXhtFZkPkAEA5%2FrteLryzf9Q4njPD37mTZl101uyKQSXTVQqG86o2rlgHPzZslxxgfEPn%2BU%2BhEgP05%2BQMGBS1EV3uIkw%2BPXRSCRAQTCV"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506e11b6ee89aca-MRS'}
-[2026-10-26 10:27:39.654523] - e7ca899b-9a05-4b7b-8dac-dca2bf9bf43e : GET - 200 - 0:00:00.904545 - 
-{'Date': 'Mon, 26 Oct 2026 04:58:26 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cHR9fH7FfhmsFgZ6G%2BwsCpTrWwK71Qj8OdWWhejgvl2dWtO1ZX1jH9vH5K6E2sngTT6zVqBe%2BqJN6FcxWxD3WVIsy1rsVVZALXUvBoLeudZx7jAKPSJW4esgs8WkDA97DXeAnQiXda9pK6qMZrOW"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506e2caa8ca1491-MRS'}
-[2026-10-26 10:28:34.922536] - e6d97890-081c-42fd-92d6-76dd545993f6 : GET - 200 - 0:00:00.682188 -https://fakestoreapi.com/products/1 - 
-{'Date': 'Mon, 26 Oct 2026 04:59:21 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9ymVVTFLKW4HQmZHI4WwO4kUzZzt0l6lP7Mb0KNzArE7R93ezUpnEyb4tTvDiI5CkUes9kEHQK%2FjFPBJ5jInvkJgGMOSbIEegF%2BaWUwv2FBhGEb58J%2FMrtTVznYOx%2FACMrJhRL4cUsm97%2BkN1BuG"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506e423e8ace181-MRS'}
-[2026-10-26 10:30:16.342294] - 2182041b-52f2-45fe-bcf2-4a7969d9912e : GET - 200 
-- 0:00:00.627462 -https://fakestoreapi.com/products/1 - 
-{'Date': 'Mon, 26 Oct 2026 05:01:03 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uKzAUG8ttw7JJY3mZtm0fNfBgwftTRxuH7B7kEXHjG6gVrIGElLmikDDCtSzh6XphLGUxqNaYxXqO9YKNocHZ2CmzFeOamsKAbbtnAL%2Bsku9UVt2CP20glpR2O7f6r66TRs7gcgIkAWYYfAYiZrm"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506e69dec4e762f-MRS'}
- OK
-[2026-10-26 10:30:59.463032] - bce2bd33-19b6-4107-be0c-1ad46a92f919 : GET - 200 - OK 
-- 0:00:00.624261 -https://fakestoreapi.com/products/1 - 
-{'Date': 'Mon, 26 Oct 2026 05:01:46 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vETa9ipe7%2BiAAAECn%2B51lyX2PiVbvdJGz%2BCP5hMoaG8PGudNPvlFLE6%2FlLZtZ8ALjz1cGKaO%2BaSDmMOz8%2BI6R9ZWBsZ9PgK7P0UEXNjjIL5gPh%2FbDRqy69otewuldC2UlAOzALOqfGatqDmO%2Bc%2Fp"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506e7ab7ae81d81-MRS'}
- 
-[2026-10-26 10:33:55.241224] - c372266c-e8ae-4aa4-9ac7-417fa9f91378 
- : GET - 200 - OK 
-- 0:00:00.907066 -https://fakestoreapi.com/products/1 - 
-{'Date': 'Mon, 26 Oct 2026 05:04:42 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GO%2FQCfI%2FQmKZjL%2BXPe89RMhXghMvY2%2FIlNA83GfUxF%2FHeBc22Oba4b1YaCaFF5FVi8noxZZ5VBIkwdvICECpzcnq6qPIk7hhyILeKn5Q9HsT8j8UlPlrXXsKKuZ%2Fg8JR2%2F93ZjcRtBdWlYO6VklT"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506ebf65ff546e1-MRS'}
- 
-[2026-10-26 10:46:41.195882] - 33b3c27b-4978-43f8-8c9a-608b7a6f0c02 : GET - 200 - OK 
-- 0:00:00.767708 -https://fakestoreapi.com/products/1 - 
-{'Date': 'Mon, 26 Oct 2026 05:17:27 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lQ4pjEzrlSm8X9VadIWQC5qA0lV%2Bdtidc5X9un0FYDLeYb39A59LJX9E5DNIkI6%2FXtGCbtZ1YUNU1%2FbXlaXuMV%2F4gRWOd4G4bYYTDZrPnf%2BZ9H50JA8zqKOo0WkxOcIj1UWr%2FilfdLSSWTToI2Yo"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a506fea8e875e21c-MRS'}
- 
-[2026-10-26 10:47:36.852582] - c53311a6-4879-473e-aa2c-866b26a76239 : GET - 200 - OK 
-- 0:00:00.605179 -https://fakestoreapi.com/products/1 - 
-{'Date': 'Mon, 26 Oct 2026 05:18:23 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'access-control-allow-origin': '*', 'etag': 'W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"', 'x-powered-by': 'Express', 'cf-cache-status': 'DYNAMIC', 'Nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'Report-To': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lGQaIMJ%2FA4j9z1E6Rgt55JomcJwOhDx%2BhqqB7FA5SIlHSX1IUklJzaVAmbCwAlP%2BDW5FnJIz75UrBrrTp1Q56XljhUToZOif919RWm32oesHlZSXmkZJtc%2BwPQejQO3C7KuHm1V8u2QrMTw6isMK"}]}', 'Content-Encoding': 'zstd', 'Server': 'cloudflare', 'CF-RAY': 'a50700051a6f5ee7-MRS'}
- 
-[2026-10-26 11:43:45.251145] - 754e30fe-e1bb-47ce-9139-8733c03005aa : GET - 200 - OK 
-- 0:00:00.622367 -https://fakestoreapi.com/products/1
+Error details : HTTPSConnectionPool(host='fakeoreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakeoreapi.com', port=443): Failed to resolve 'fakeoreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 10:20:34.594184
+Unique ID : a62fa080-012b-43bc-89f9-8a76c3bada07
+Endpoint : https://fakeoreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakeoreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakeoreapi.com', port=443): Failed to resolve 'fakeoreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 10:22:42.810599
+Unique ID : 210898e6-440d-4599-a0eb-845a0b538ff9
+Endpoint : https://fakeoreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakeoreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakeoreapi.com', port=443): Failed to resolve 'fakeoreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 10:23:03.690425
+Unique ID : 20c94f60-4763-445a-a3e3-09b8210c8655
+Endpoint : https://fakestoreapi.com/products/1
+Method : GET
+Status code: 200
+Reason : OK
+Elapsed Time : 0:00:00.581532
+
+============================================================
+Time : 2026-10-27 10:28:49.934966
+Unique ID : 1cda9d04-78d8-4995-8884-89245c5ec086
+Endpoint : https://fakesreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakesreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakesreapi.com', port=443): Failed to resolve 'fakesreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:15:10.330967
+Unique ID : 7cc0c5fd-ab0b-4063-a1d9-233e8e4fa6e4
+Endpoint : https://fakesreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakesreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakesreapi.com', port=443): Failed to resolve 'fakesreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:15:26.714195
+Unique ID : 91ec2bf1-8a55-43ac-95f0-2b33f9a9da52
+Endpoint : https://fakesreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakesreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakesreapi.com', port=443): Failed to resolve 'fakesreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:17:26.188340
+Unique ID : 1c819870-b76d-4a70-9adc-e2cd39bef292
+Endpoint : https://fakesreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakesreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakesreapi.com', port=443): Failed to resolve 'fakesreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:28:35.612211
+Unique ID : cc81cfee-c26c-434d-9e8c-8f7111541c93
+Endpoint : https://fakesreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakesreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakesreapi.com', port=443): Failed to resolve 'fakesreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:37:55.469402
+Unique ID : 8b46f403-b586-4bfb-afc0-7e24c1dcb692
+Endpoint : https://fakesreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakesreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakesreapi.com', port=443): Failed to resolve 'fakesreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:38:14.515419
+Unique ID : 7d1f4c99-2f42-46e9-8acc-389a3235fda2
+Endpoint : https://fakesreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakesreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakesreapi.com', port=443): Failed to resolve 'fakesreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:38:51.498612
+Unique ID : 51f26417-b7ad-4233-a9bf-8f7d20fc05fb
+Endpoint : https://fakestoreapi.com/p
+Method : GET
+Error details : 404 Client Error: Not Found for url: https://fakestoreapi.com/p
+Status code : 404
+============================================================
+Time : 2026-10-27 11:40:02.950608
+Unique ID : ae3b76c3-36c7-4d91-959d-64e32a88f97e
+Endpoint : https://fakestoreapi.com/p
+Method : GET
+Error details : HTTPSConnectionPool(host='fakestoreapi.com', port=443): Max retries exceeded with url: /p (Caused by NameResolutionError("HTTPSConnection(host='fakestoreapi.com', port=443): Failed to resolve 'fakestoreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:40:25.013610
+Unique ID : 3521f282-9588-4374-b51c-cd82eee11107
+Endpoint : https://fakestoreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='fakestoreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='fakestoreapi.com', port=443): Failed to resolve 'fakestoreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 11:41:47.654998
+Unique ID : 7d01fed3-d4ed-4629-b4f2-7dba9fe73088
+Endpoint : https://fakestoreapi.com/products/1
+Method : GET
+Status code: 200
+Reason : OK
+Elapsed Time : 0:00:00.918915
+
+============================================================
+Time : 2026-10-27 11:42:37.909436
+Unique ID : 3702bf39-4f19-4f05-bd65-b3ce5e5286c5
+Endpoint : https://fakestoreapi.com/p
+Method : GET
+Error details : 404 Client Error: Not Found for url: https://fakestoreapi.com/p
+Status code : 404
+============================================================
+Time : 2026-10-27 11:43:00.348067
+Unique ID : 9a9ab988-ae36-41a8-b1da-fa04664cc210
+Endpoint : https://faketoreapi.com/products/1
+Method : GET
+Error details : HTTPSConnectionPool(host='faketoreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='faketoreapi.com', port=443): Failed to resolve 'faketoreapi.com' ([Errno 11001] getaddrinfo failed)"))
