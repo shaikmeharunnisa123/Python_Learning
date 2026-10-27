@@ -122,3 +122,20 @@ Unique ID : 9a9ab988-ae36-41a8-b1da-fa04664cc210
 Endpoint : https://faketoreapi.com/products/1
 Method : GET
 Error details : HTTPSConnectionPool(host='faketoreapi.com', port=443): Max retries exceeded with url: /products/1 (Caused by NameResolutionError("HTTPSConnection(host='faketoreapi.com', port=443): Failed to resolve 'faketoreapi.com' ([Errno 11001] getaddrinfo failed)"))
+
+============================================================
+Time : 2026-10-27 16:16:15.187193
+Unique ID : e4bb6cde-62fa-4b0b-bd05-ee735794fd4a
+Endpoint : https://fakestoreapi.com/products/1
+Method : GET
+Status code: 200
+Reason : OK
+Elapsed Time : 0:00:00.884015
+
+============================================================
+Time : 2026-10-27 17:16:37.423212
+Unique ID : bdd82fc9-af6b-4608-8693-3224d54f30d6
+Endpoint : https://fakestoreapi.com/pr
+Method : GET
+Error details : 404 Client Error: Not Found for url: https://fakestoreapi.com/pr
+Status code : 404
